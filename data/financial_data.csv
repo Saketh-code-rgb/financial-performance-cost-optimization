@@ -1,0 +1,16 @@
+Month,Department,Revenue,Marketing_Cost,Operational_Cost,Employee_Cost
+Jan,Sales,50000,8000,12000,15000
+Jan,Marketing,20000,6000,5000,7000
+Jan,Operations,15000,2000,8000,9000
+Feb,Sales,55000,8500,12500,15500
+Feb,Marketing,22000,6500,5200,7200
+Feb,Operations,17000,2500,8500,9200
+Mar,Sales,60000,9000,13000,16000
+Mar,Marketing,25000,7000,5500,7500
+Mar,Operations,18000,3000,9000,9500
+Apr,Sales,58000,8800,12800,15800
+Apr,Marketing,24000,6800,5400,7300
+Apr,Operations,19000,3200,9200,9700
+May,Sales,62000,9200,13500,16500
+May,Marketing,26000,7200,5600,7600
+May,Operations,20000,3500,9500,9900
